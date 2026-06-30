@@ -1,3 +1,5 @@
+MDNB (Meta Drum and Bass) 
+
 Neuro Bloom Chamber is a single-file WebXR visual experience made for normal browsers and Meta Quest Browser. It opens with a simple home screen where you choose an audio source, start the sound or pulse engine, and enter a dark 3D chamber built around one glowing generative bloom.
 
 The design is deliberately minimal: one central fractal-like sculpture, soft ribbons, mist particles, and a bass halo, rather than lots of cluttered visual modes. Music or the built-in DnB pulse gently drives the movement, so the scene breathes, folds, shimmers, and reacts without becoming a messy rave effect.
