@@ -1,4 +1,4 @@
-Drum and Bass Meta Quest
+Drum and Bass Meta Quest Test
 
 Neuro Bloom Chamber is a single-file WebXR visual experience made for normal browsers and Meta Quest Browser. It opens with a simple home screen where you choose an audio source, start the sound or pulse engine, and enter a dark 3D chamber built around one glowing generative bloom.
 
